@@ -50,9 +50,9 @@ const Home = () => {
         <div className="prompt-container">
           <textarea 
             className="prompt-box"
-            placeholder="start typing here"
+            placeholder="Describe your product here..."
             value={userInput}
-            onChange={onUserChangedText} 
+            onChange={onUserChangedText}
           />
           <div className="prompt-buttons">
             <a className={isGenerating ? 'generate-button loading' : 'generate-button'}
