@@ -44,7 +44,7 @@ const Home = () => {
             <h1>Write Ad Copy that converts</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Write killer Ad Copy with MarketingAI and increase your conversions x2.</h2>
+            <h2>Describe your product and generate killer Ad Copy that increases your conversions x2.</h2>
           </div>
         </div>
         <div className="prompt-container">
