@@ -99,7 +99,8 @@ const Home = () => {
         </a>
       </div>
       <div className="footer">
-        <p>Like this tool? Download the Extension</p>
+        <p>Like this tool? Insert your Ad Copy directly into Google, Facebook or TikTok Ads with our Chrome Extension.</p>
+        <p>Send me an <a href="mailto:tom@louwagie.com" target="_blank">email</a> to get access.</p>
       </div>
     </div>
   );

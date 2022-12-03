@@ -422,4 +422,7 @@ textarea {
 
 .footer {
     color: #FFF;
+    text-align: center;
 }
+
+a { color: inherit; } 
