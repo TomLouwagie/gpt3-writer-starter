@@ -67,6 +67,11 @@ body {
     text-align: center;
 }
 
+.how-to-use {
+    width: 610px;
+    color: #FFF
+}
+
 .prompt-container {
     place-content: flex-end center;
     align-items: center;

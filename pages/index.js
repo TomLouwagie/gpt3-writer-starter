@@ -47,6 +47,15 @@ const Home = () => {
             <h2>Describe your product and generate killer Ad Copy that increases your conversions x2.</h2>
           </div>
         </div>
+        <div className="how-to-use">
+            <p>How to use:</p>
+            <ul>
+              <li>Describe your product and list a couple of features</li>
+              <li>Click Generate and wait for magic to happen</li>
+            </ul>
+            <p>A good description: "The Emma mattress is soft, comfortable and made from recycled materials"</p>
+            <p>A bad description: "Emma mattress"</p>
+          </div>
         <div className="prompt-container">
           <textarea 
             className="prompt-box"
@@ -84,7 +93,7 @@ const Home = () => {
           rel="noreferrer"
         >
           <div className="badge">
-            <Image src={buildspaceLogo} alt="buildspace logo" />
+            <Image src={buildspaceLogo} alt="buildspace logo"/>
             <p>build with buildspace</p>
           </div>
         </a>
