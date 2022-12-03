@@ -414,3 +414,7 @@ textarea {
         transform: rotate(360deg);
     }
 }
+
+.footer {
+    color: #FFF;
+}

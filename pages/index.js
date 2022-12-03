@@ -89,6 +89,9 @@ const Home = () => {
           </div>
         </a>
       </div>
+      <div className="footer">
+        <p>Like this tool? Download the Extension</p>
+      </div>
     </div>
   );
 };
